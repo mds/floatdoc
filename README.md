@@ -1,4 +1,10 @@
-# FloatPrompt
+# floatdoc
+
+> **Formerly FloatPrompt.** This is the original open-source file format: YAML frontmatter plus a markdown body, carrying behavioral context for an AI. It shipped in 2025, before the industry standardized the same shape as Agent Skills. Now that skill files exist, this repo is kept as **floatdoc** for reference and history.
+>
+> The **FloatPrompt** name now belongs to a separate Mac app (voice and pointing feedback, at floatprompt.com). This repo is not that app.
+
+---
 
 > **The invisible OS for AI**
 
