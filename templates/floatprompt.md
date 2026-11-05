@@ -26,6 +26,8 @@ metadata:
   }
 ---
 
+> **Now floatdoc.** This template is from the original FloatPrompt format, now kept as floatdoc (github.com/mds/floatdoc). The FloatPrompt name now belongs to a separate Mac app.
+
 # {{TITLE}}
 {{AI_SUMMARY}}
 
